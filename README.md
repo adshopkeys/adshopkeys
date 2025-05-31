@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Chào mừng bạn đến với trang GitHub chính thức của Adshopkeys!
 
-<!--
-**adshopkeys/adshopkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chúng tôi chuyên cung cấp các giải pháp và phần mềm bản quyền giúp bạn làm việc hiệu quả và an toàn hơn. 
 
-Here are some ideas to get you started:
+Tại đây, chúng tôi sẽ chia sẻ các tài nguyên và công cụ hữu ích liên quan đến:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ **Microsoft Windows**
+- िस **Microsoft 365 & Office**
+- 🚀 **Các công cụ tăng năng suất (Productivity Tools)**
+- 🔒 **An ninh mạng cho người dùng cá nhân**
+
+---
+
+### 🔗 Ghé thăm chúng tôi tại:
+
+- **Website:** [adshopkeys.com](https://adshopkeys.com/)
+- **Email:** muadongvinhcuu@gmail.com
+- **Theo dõi chúng tôi trên Facebook:** https://www.facebook.com/adshopkeycom/
+
+---
+
+*Cảm ơn bạn đã ghé thăm!*
